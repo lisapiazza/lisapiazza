@@ -7,7 +7,7 @@ I am a PhD researcher at the **University of Pisa, Department of Pharmacy**, wor
 
 My research focuses on the development of machine learning and generative AI approaches for **molecular property prediction, virtual screening, de novo molecular design, model reliability and explainable AI**.
 
-**Technical background**: Python · PyTorch · scikit-learn · RDKit · pandas · NumPy · Classification & Regression ML · Graph Neural Networks · Transformers · Reinforcement Learning · Molecular Representations · SHAP-based Explainability
+**Technical background**: Python · PyTorch · scikit-learn · RDKit · pandas · NumPy · Classification & Regression ML · Graph Neural Networks · Transformers · Reinforcement Learning · Generative AI · Molecular Representations · SHAP-based Explainability
 
 ---
 
