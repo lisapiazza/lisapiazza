@@ -43,4 +43,4 @@ A machine learning platform for predicting small-molecule activity against multi
 
 ## Publications & Profiles
 
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=58627490500) · [LinkedIn](https://www.linkedin.com/in/lisa-piazza1999/)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=58627490500) · [LinkedIn](https://www.linkedin.com/in/lisa-piazza1999/) · [Google Scholar](https://scholar.google.com/citations?user=rApu4-YAAAAJ)
